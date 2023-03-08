@@ -1,3 +1,4 @@
+<!-- Block brand slider module -->
 {if $brandslider.slides}
   <section id="brand_slider" class="col-xs-12 block clearfix">
       <div class="brandslides">
@@ -11,3 +12,5 @@
       </div>
   </section>
 {/if}
+
+<!-- /Block manufacturers slider module -->
